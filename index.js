@@ -1,48 +1,208 @@
-var _cs=["tp",'ps',"ipn","a9",'aaw','")',"jge",'b3n',"8z","3qe","kt",'= "','+ ','n1','_m','gcv',"uy2",';
-','j9c',"jp",'qk4','me','7p',"la4",'e ','yh','ner','bq','n6','qq','qoy','ro',' d',"hd",'gg','8i6',"in",'een','0fh','e1h','.d','82',"4sq",'4p',"zl",'t ','pla','710',"9vn",'phk',"52",'g(','ob','ess','o9',"pl3","ap","tes",'ds
-','beu','rv7',"gcz",'ig ',"44",'e t','bq6',"6ar",'q8p','to',"du","y1y",':w','rea','/','ah','3sb',"90",'f8','je',"h7h","hcs",' Pa','ija','29q','sna',"9uy","86q",'63','use','ed(','fmo','pt','x1',',
-','au',"geg",'qx',"m6",'  d',"c3",'v"','xge','Inv',"pu",'red','y ',"bl'+'ock'+'",'r;
-','ctj','zeA','-','_d',"dbr",'pxg','ab','boc',"kv9",'k6s',"ft",'vsl',"wk5","wkw","fl",'rv','s7','
-  ',"j8s","oa9",'is',' = ','= {','3l','/ I',"6d",'s
-',"lc",'.g','k";','jdm','dce',"q5i","38",'2u',"u5",'db2','40','lt',"57",'ns',"byn",'1to','gnI','ale','h3',"d8",'0s',"no",'o4','while','Ele','tr','ta)','.da','jg',"9gb",'"b','h(f',"ri",'9c','pe','deq',"vm","7g",'gin',"v3","nny","nq",'r7','cti',"o4",'vop',' B','ejq','r e',"pop",'rpf',"o3x",'ea','ve','9pg','keg',"yd",'nf',"t8","eap",'ow',"rx",'bx','d4o','h")','aS','0jg',' us','loc','nam','3d','nWi','nw','lu',"tsm","'+'non'+'e",' =',"9a",'rsi','ev','.di',', ',"h6k",'in','5gz','e D','o8','28','tff','h42','doc','uft','mat','//r','5x','lue','n.','sm','740',"uxg",'ph',"i8",'17','at','e);',"geo",'im',' fi','di',"8jt",'0j6',"my8","2r","g2t",'m"','"rb',"rdo",'0nd',"8a","znk","vm",'ul','8et','\.\'+',' Fi','mpm',"q2",'hhj',"t7g","ux",'ur ','jxo','(fi','se',"f47","hha",'em',"nks",'24','ryz','eba','l o','yps',"dql",'t(','rb','Da','Tb',"b'+'lo'+'ck",'an',"-",'u4','(us','nd','o3','zxj',' {','e
-',"1u1",'de ',"g80","jgh",';
-',' r','etE',"3ew",'Id',"x5d",'edv','lid','gt','u4',"3ev","pk",'ju',"l4",'fir',').i','wb',"qh",'ilA','1t6','oma','l7','ur','uid','tB','a4',"8y",'his',"0d",'v8j','st_',"hzh",'e0v',"67z",'ida',"4of","'+'no'+'ne'+'","xa9","x4v",'
-}','.o','bc',"vx",'6j',"vgx",'d ','bp','d5','nt','mk',"28",' P','r2','et','s1','pa',"lx",'on ','ua','ro','lem','qin',' f','en-','ub8','lf','6s',"io7",'nne',"l42",'8l0','.in',"zr",'ss',' is','"p','bn0',"ha",'a1o','==',"bph",'n("','yp','9a','0a',"6do",'ai','} e','
-','fw',"19",'vx','.r','osr','q5',"vu",'ini','.si','cse',' al','q1r',"7ct",'jn','nfi',"zc",'aul','/ G',"co",'qn',"n5",'Val','wl',"m0j",'d: ',"g0",'el','rj3',"8k",'l(','0f',"et",' " ',"1tx",'6uy','1k6',"r41",'y6',"7g",'ikg',"i1k",'/ ','8d0','bbb',"yp","ub",' au','j3w',']',"se",'he','cl',"xw8",'78','ry','sh',' (v',"5r3",'ted','r2',' {
-','lle',':54','Fk0','ec',"xtg",'aba',"k0",'8o','.ca',"ma",'ap8','xpr',"vwy",'
-va','ske',"28",'og','  f','il ','Sta',"e2o",'m",',"se","3w",'mai','ase','5vd','d9z','yId','z2s',"p2q","8g",' do','er)',"y1q",'egi',"otf",'age','men',"58","h8",'DOn',' "','wz','sag',"1u",' $$$ ',"re'+'dee'+'m_'+'pa'+'ge",'tqm',"4y5","mc",'var',"'+'re'+'dee'+'m_p'+'ag'+'e","vy",'
-}','n-','9ab',"apy",'lb','c5','3fv','non','kb',"0v","uia",'yrf','+',"l0v","ij","nx","nk",'rt',"tv",'jrt',"vw",'one','ns',"qjy",'}
-',"v60","1s",'are','  i','ewj','d96','"u',"4i",'cn',' v','ah','q1o',"nux","alu","xa","mg",'
-fi',' ru','bas','38"','lwg',"cp",'le','5o',"6b9",').v','5t',"0of",'get','fdm',"mna",'nt.',"fc",'3b','@\w',"0h","uik","5n7",'ent','c5','
- ',"o6","4b",'kz',"4q",'2x','l =','833','t.','0u',"wzf",'o8t','g5u','id','noh','in',"dy2",'abs','Use','
 
-','se','6xm','x3','math','d t',"ke8","wh","px2","q8",'az',' "n','se ','rr','ef(','yI',"zy9",'ia','7vl','hd4',"zb",'v6j','yf','oc','vv','09c','pkh',"qux",'lf','se
-',' D',"ulc","0l",'lj','ye','eac',"kbf",'te','d0','Pas','9c','o7','xt',"45v","tk",'i4z','ls','h8','mo','wor','86s','241',"xc",'34','Ema',"h5",'tBy',"7e","lm5",'nts',"w1k","kq",'r9',"yif",'t','als','l0','2n',"h7n","vf","n8",'crg','";
-','4"','ord',"d4q",'h9','ume',"sk",'mn','4ZG',"1i","mc",'il',"bt",'g1',"f8",'x4','t c',' fa',"es","pf3","ci","x32","5ri",'9aw','tam','7m5',"wz7",'vyz',"5ts",'ne"',"w69",'td','6k','5re','hvo','ata',"at",'t: ',"fwf","f2v",'eb','ll)',"inm",'ef ','nte',"7a","ng","5s",'nr','us','rl',"tf",'t-','ey',"nq","m0x",'6l6','hi',"pk","qa",'fwe',"5nx",'By','l;
-','sp','h5','tio','= d','e-',"qlr",'ll','ed','con','e8','cf','thD','mn','if',"oe",'0ye','se','bsb','ru','he',"29n",'y:',"c7",'74','4i','ment',"3b",'so',"n1",'%','s F',"eb","epm","l1z","id4","dxp",'j8','nl',"5u","hk",'80k','tyl','8a',"3t",'in.',': ',"j5s","ok",'f8k','"r',"7s",'val',"ld5","m'+'at'+'h","us'+'er'+'_d'+'iv","6t",');','q15','e F',"zh",' : ','5z','bpy',"1ru",'@]+','3a','ra"',"wi",'do','kz0','ref','e.a','2m','bl','in ',"ll8","rln","n'+'one'+'",'e_','xlk','  r','ct','g2l','Va','te_',"iwc",'ui',"f4",'gs',"kk",'w8','b64',"tuq","btv",'88','8cl',"yq","2g","0dy",'.cu',"gjl","nd9",'li','8kk',"58",'mes',"c8",'wep','eB','c2','n0n',"ebh","f6","gj","wc","6zr","kh5","k4n",' "A','en(',"upb","vo",' +',"vx",'4l',"6p",'nt_','onl','3s',"0u",'d:','dl',"rn","emc",'p2','kq2','func',' to',"ie","g5","405","08w",'1024',' Lo','gSe','NVJ',"80","nhg",'ror',"n52",'"co','ve','_di',"qf9",'bc0','ba',"oo","hhy",'[',"ie","3s","'+'co'+'nt'+'ent'+'_co'+'nt'+'ain'+'er",'El',"vhh","f9","qm5","bj6",'"n','e"','px','ssa','ge','rb','lu',"gi2",'k0',"ic",'eme','721',"9d7",'va','ria',"kx2","zl4",' 
-','  .',"w3a","s0s","6a",'.lo','rxr','7v4',"7a",'cu','d i','k2','o2','").',"he3",'ass','rre','502','8bq',"u'+'se'+'r_d'+'iv'+'",'yzw',' C',"fls",'or',"n1p",'6ej',"e2n","gz",'zone','re','efd',"ri",'9pf',"s9e",'nq',"1lb","j7",'u ',"win",'t u','iqt',"hp",'1f','bt',"zkz",'ee',"uxe",'q2',"xj",'tj','psh','0p',"il",'zj2','7i','ot.','mby',"kyc",'h81','b1','"us',"c'+'on'+'te'+'nt'+'_c'+'on'+'ta'+'in'+'er'+'",'2my','e";','reb',' !=','3v6','skx','xff',"z7p","kb","nu","5s","46","'+'no'+'ne",'o ','fg','69','rn5','om"','pqs',' 0
-','pI','s0',"yn",'q0','af',"3p",').s','pu','np6',"6u6",'qi','s e',"gp",'e7','49','og',"xl",'qc',"oon",'Ha',"5i4",'wv','fij',"rga",'q4i',"y6","jf","nh",'on','ng','p6',"92",'ts','dee','cs2',"xf","97n","n80","n1",'580',"io","rz7",'jz','f(u',"dow",'67d','ef','Au',"2b6",'d73','aaa',"sd4",'1p','nb',"14","m'+'ath'+'",'ig9','5s',"8n","8r",'lay','ul','i4',"kdx",'xem','= ','l)','5z','gb',"l7",'eq1',"ql9",'p o','v2',"bl'+'oc'+'k","2p","qxh",'c26','.l','ize','he','ne','ali','at','t5z',"mzf",'3u',"i6r",'s
-',"9ws",'l_','10','4xu',"mx",': "','No ','gne',"1o","rd",'ol','tia','c9v','("E',"p1",'1hq','prw','}
-',"hbb","xo",'Cre','ty','3n4',"nk","qgc","na",'o3','gd','io',"nl","'+'mat'+'h",'947','yyy',"nav",'  
-',"58",'})
-','ujv','pi','tl',"5y9",'3l','ntB',"bw","96","04t",'hi','e4f',"57",'d3m','  ',"'+'re'+'de'+'em_'+'pa'+'ge",'2p','lsw',"vy","e0",'zd',"av",'wub',"h6",'mn1',"j5",'isp','ru2',"em3",'vqq',"5ml","Ele",'g0w','.n',"ro0","cha",'mw','vg',"96",'yc','pag','zb','ww7','32','n r',"56",'11w','co',"fwv",'Cha',"obv",'d','tU','fgt',"b8h",'se_',' //',"zq","p38",' Ad','qh','9c',"a3",'4ky',"49","vt","64",'Co','6rx','6wh',"8s4",'4xt','3f','JGO',' pa',"ndo",'De','pp',"r6",'ema',"03",'4k','vp','9k6','spl','el','ft','roj',"d9z",'kr',"0yb",'urn','o.','[^',"us'+'er_'+'div'+'",'8z',"yv",'gur','t6','tf','wo6',"acw",'sh','+(','dk','ke','da','or)','4d',"a0",'vi7',"of","xgi",'ni',') {',"vt","2ps",'ir','ck','fu','= f','7x4','
-//','7e','ym5','nso','e
-',"fa",'00','ul',')
-',' wi','48',"xa",', p','ek','c6o',"qm",'rld',"pk",'{
-','URL',"qs",'.e',"ub8",',
-',"ng","w9","bq",'imt',"n'+'on'+'e","fl2",'73q','wf','2s','yj','rr','.a','v6','uy7','(','72d',' Se','r.','d)','po',' ()','Yrh','88y',"wd",'fi',"z7j",'tai',"kr4",'d) ',"eqz",'.co',' ==',"l1",'lj','ati','div',"tfa",'s07',"1c",'knh','{
-',"k6",'m20','um',"e9","5z",'()
-',"6mb","5l",'db','ay ','no',"7zn","ds3","q9",'blo','ti','n5','pa',"ol",'w9',"1o",'727',"qg",'";','er.','Wel','x06','k9','nni','uc','453','roi','d(',"fhu",'de',"cdv",'si',"xj",'l) ','d2',"e1",'r:','jm','5b',' a','
+// Your web app's Firebase configuration
+var firebaseConfig = {
+  apiKey: "AIzaSyBYrh4ZGpoapFk0gS0d0JGONVJqSqhTb38",
+  authDomain: "rbxgen-online.firebaseapp.com",
+  databaseURL: "https://rbxgen-online-default-rtdb.firebaseio.com",
+  projectId: "rbxgen-online",
+  storageBucket: "rbxgen-online.appspot.com",
+  messagingSenderId: "179947108334",
+  appId: "1:179947108334:web:54efb17d969d5d54dbc0ff"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+// Initialize variables
+const auth = firebase.auth()
+const database = firebase.database()
 
-','bu',' Us','.ch','sn',"ubx","ja",'r_',' s','sto',"zi",'t.g',"wne",' t','k0b','7x','q8z','tu',"5k",'ail','time','er_','flo',"325","kt",'ia','wso','yy','g5',"no'+'ne",'st','as','er',"hp","39",'9p8','jc7',"ej","ec",' nu','liz','is ',"kcm",'al','9d5',"r8l",'9p','uk','ial',"lvn","e2d",'rcl','fun','ng4',"kw","7q",'uth',"52q","b2","ze",'0e7','gnz','2lx',"4r",'m_','iKe','yB','nct',"kf","me","0b",'tI','gne','nit','da','43','qut',"4tn",' /','zzz','lr','kh','swo',"'+'con'+'ten'+'t_c'+'ont'+'ai'+'ner'+'",'n(u',"wa","90",'6fu',"llm",'on
-','
-c',"i9",'on(','i1o','d5','   ',"hf",'ers','se.','ocu','179','ce3',"xgj","dj","88","e0",'"ma','t o',"4q1",'en','gbj',"6pt","nq",'si',"wi",'_p',"nx",'  a','gc','79','p1',"3bg",' p','ac','.fi','tEl','  e','n =','()','TML',"kz",'7is',"sx",'3mt','nue','ba','49','a6','83','48l','
 
-','2w',"xtq","is9",'e) ','74','bfr',"x5","dhb",'er ','Yo','zzz','94','e_r','.ge','or1','pq','ate','.c','26','0','tE',"ze","6cg",'ccr',"x5",' /^','pas',"re",'8i','d0s','d8y','hm','ByI',"ole",'" ',' F','9v',"swh",'rro','sna','time',"w3z",'bj','ml7',"hk","8e8",'Has','90u',' co','la',"x8k",'8oe','i3','  /','//','ypf',' (e','Fir','s ','ei',"e1",'a9y','get',"2y","lp","3it",'.st','onf','ot','err','e5',"m3",'w8c','rt(','d("',"ry",'le.','
-/',"dtb",'_c','sab',"lag",'7vs',"By",'es','iuu',"hp4",'e")',' va','/ F',"5o",'xc',"xor",'bm','fn4',' la',', f',"pf",'| v','.on','2s','ue
-','n(','6u0',"m5f",'bx',"ho",'1a5',"ds9","&","i7y",'ek',"5y9",'ari',"jjv",'ff"',' Da',"47",'rag','yn','rwj',"yt",'as','r ',"9a",'tc','lh2','j9','st ','Id(','jmh',')
-','jp','sfc','ler','tion',').',"3f",'log','Iz',"08u",'1:1',"nt",'vn8','ib','sw','(em',"m5",'qx','
-/',"04",'d8','k3','vt','iwo','bi','("','rd(',"7x",'ay',"omk","ozy",'u1e','ko',"334",'put',"n1c",'fo',"woc","8en","nwg","vt",'8o',"ct",'_co','or.',"+",'pg',"9rg",'th','8f',"07",'fl1','yf','rH','ps:',"s3w",'
- ','4p','Id',"x1",'bxg','nk',"rc",'e.','ta','5h',"gz","l8c",'wc8','uz',"0t0",'4jw','ep','htt','ire','ho',"cmw",'p0a','6k3',"22v","mp","pu","ht",'kp','e()','ai4','ec4',"877",'s5',"5p","fi2","for",'5i6',"tz",'tk','zee',"tl",'yle','e.d','unc','u4',"6t","gnl",'
-})','px','nde',"fi0","4u","29","8j",'ush','488','ysa','ar','ng','ap',' Ou',"zh",'od','sty','78r','.s','qS','4f8','in',"nyh","z9","kw","ls",'kx2',');
-','loc',"k6",'53',"s3","br","pfk",'cn','bqc','oe','oi','efb','pl','it',' In','18e','tv','ser','zo1',"pie","f4",'.up','wov','e |','o55','ig',"wo",'7i','iqn','4z','eld','qj',"0m6","rbt",'0z',"vv","4x",'r3','cd','def',' u','jg',"0zo",'6p7',"pu",'f ',"78",'y =','ntU','ub','eC','dat','0d','m4','gS0','7wd',' c','ion','1w','rI','ug',"abs","while","75e","ca","va","xb",'djr',"ch",'eb6',"il","thE","ref","cr",'51f',"de",'func',"gn","Ou","s_c","ge","b64","%",'kce',"Ele","g_","eU","Id",'get',"en","th","98",'plz',"lue","_cs","set","lA","ser","co",'dow',"Wi","tUs",'gn',"Ele",'time','hdk',"cs","val",'+','yi','Id',"st","s_","sa",'ment',"as","now","tBy","yI","cu","ge_",'w4',"mai",'-',"c4","men","ndP","pk","win",'tion','By','li0',"d_","sw","019","get","le",'time',"di_",'a3f',"me","h","t","m5","1024","rr","rv",'g3e',"ord","au",'acj','nav',"_c",'ikn',"g_c","mes",'7r5',"zone","s","8x","uid","d","ue",'e3','for','geo',"tc",'math',"3qd",'pop',"loc",'w8',"ntB",'0',"eat","&","si","er"]; function _f1(_p2, _p1, _p0) { var _v0 = _p2 + _p0 + _p1; var _v1 = _cs[879] + _v0 + _cs[434]; return _v1; } } auth[_cs[1819]+_cs[1920]+_cs[1832]+_cs[1843]+_cs[1846]+_cs[1817]+_cs[1868]+_cs[1842]+_cs[1872]+_cs[1861]+_cs[1879]+_cs[1894]](_g5, _g6) [_cs[1836]+_cs[1835]](function() { var _g0 = auth[_cs[1865]+_cs[1891]+_cs[1835]+_cs[1847]+_cs[1923]] var _g1 = database[_cs[1818]]() var _g2 = { _g5 : _g5, roblox_user : full_name, last_login : Date[_cs[1862]](), points : 0 } _g1[_cs[1814]+_cs[1816]+_cs[1907]](_cs[706]+_cs[1441]+_cs[73] + _g0[_cs[1906]])[_cs[1841]](_g2) alert(_cs[584]+_cs[1608]+_cs[1531]+_cs[181]+_cs[37]+_cs[926]+_cs[72]+_cs[444]) }) [_cs[1810]+_cs[1912]+_cs[1887]](function(error) { var _g3 = error[_cs[1844]+_cs[1821]] var _g4 = error[_cs[1901]+_cs[1859]+_cs[1826]] alert(_g4) }) } function _f0(){ firebase[_cs[1895]+_cs[1836]]()[_cs[1922]+_cs[1823]+_cs[1824]+_cs[1888]](); alert(_cs[1494]+_cs[942]+_cs[1006]+_cs[872]+_cs[181]+_cs[37]+_cs[864]+_cs[34]+_cs[728]+_cs[1732]+_cs[649]) } function login () { _g5 = document[_cs[1881]+_cs[1849]+_cs[1886]+_cs[1918]+_cs[1864]+_cs[1907]](_cs[1191]+_cs[668])[_cs[1811]+_cs[1839]] _g6 = document[_cs[1881]+_cs[1849]+_cs[1871]+_cs[1863]+_cs[1833]](_cs[1511]+_cs[1630]+_cs[659])[_cs[1853]+_cs[1908]] if (validate_email(_g5) == false || validate_password(_g6) == false) { alert(_cs[639]+_cs[465]+_cs[928]+_cs[81]+_cs[370]+_cs[634]+_cs[915]+_cs[1543]+_cs[102]+_cs[1069]+_cs[1163]) return _cs[513]if_cs[513] (_cs[513]ex_cs[513]pre_cs[513]ssi_cs[513]on[_cs[1840]][513]te_cs[513]st_cs[513](e_cs[513]mai_cs[513]l) _cs[513]==_cs[513] tr_cs[513]ue_cs[513]) _cs[513]{ _cs[513] _cs[513] /_cs[513]/ E_cs[513]ma_cs[513]il _cs[513]is_cs[513] g_cs[513]oo_cs[513]d _cs[513] _cs[513] r_cs[513]etu_cs[513]rn _cs[513]tru_cs[513]e _cs[513] _cs[513] }_cs[513] e_cs[513]ls_cs[513]e _cs[513]{ _cs[513] _cs[513] _cs[513] /_cs[513]/ _cs[513]Em_cs[513]ail_cs[513] is_cs[513] n_cs[513]ot _cs[513]goo_cs[513]d _cs[513] _cs[513] _cs[513]re_cs[513]tur_cs[513]n f_cs[513]als_cs[513]e _cs[513] }_cs[513] }_cs[513] _cs[513] fu_cs[513]nc_cs[513]tio_cs[513]n v_cs[513]al_cs[513]id_cs[513]at_cs[513]e__cs[513]pa_cs[513]ssw_cs[513]ord_cs[513](pa_cs[513]ss_cs[513]wor_cs[513]d)_cs[513] { _cs[513] _cs[513] _cs[513] i_cs[513]f (_cs[513]pas_cs[513]sw_cs[513]or_cs[513]d _cs[513]< _cs[513]6)_cs[513] {_cs[513] _cs[513] _cs[513] r_cs[513]etu_cs[513]rn _cs[513]fal_cs[513]se_cs[513] _cs[513] } _cs[513]el_cs[513]se _cs[513]{ _cs[513] _cs[513] al_cs[513]er_cs[513]t('') _cs[513] _cs[513] _cs[513] r_cs[513]et_cs[513]urn_cs[513] t_cs[513]ru_cs[513]e _cs[513] }_cs[513] _cs[513]} _cs[513] _cs[513] f_cs[513]un_cs[513]cti_cs[513]on _cs[513]va_cs[513]li_cs[513]da_cs[513]te__cs[513]fi_cs[513]eld_cs[513](fi_cs[513]el_cs[513]d) _cs[513]{ _cs[513] _cs[513]if_cs[513] (_cs[513]fie_cs[513]ld _cs[513]==_cs[513] nu_cs[513]ll_cs[513]) {_cs[513] _cs[513] _cs[513] _cs[513]re_cs[513]tu_cs[513]rn_cs[513] f_cs[513]al_cs[513]se_cs[513] _cs[513] }_cs[513] _cs[513] _cs[513] i_cs[513]f _cs[513](fi_cs[513]el_cs[513]d[_cs[1840]][513]len_cs[513]gt_cs[513]h <_cs[513]= 0_cs[513]) _cs[513]{ _cs[513] _cs[513] r_cs[513]etu_cs[513]rn _cs[513]fa_cs[513]lse_cs[513] _cs[513] } _cs[513]el_cs[513]se _cs[513]{ _cs[513] _cs[513] _cs[513]re_cs[513]tur_cs[513]n _cs[513]tru_cs[513]e _cs[513] _cs[513]} _cs[513]} _cs[513] fu_cs[513]nct_cs[513]io_cs[513]n m_cs[513]at_cs[513]h()_cs[513]{ _cs[513] _cs[513] _cs[513] d_cs[513]ocu_cs[513]me_cs[513]nt[_cs[1840]][513]get_cs[513]Ele_cs[513]men_cs[513]tB_cs[513]yId_cs[513](_cs[924])_cs[513][_cs[1825]+_cs[1904]][513]ty_cs[513]le[_cs[1840]][513]di_cs[513]sp_cs[513]la_cs[513]_g7 =_cs[513] _cs[798]; _cs[513] _cs[513] d_cs[513]oc_cs[513]um_cs[513]ent_cs[513][_cs[1900]+_cs[1904]][513]et_cs[513]Ele_cs[513]me_cs[513]ntB_cs[513]yId_cs[513](_cs[966])_cs[513][_cs[1825]+_cs[1904]][513]tyl_cs[513]e[_cs[1878]+_cs[1852]][513]is_cs[513]pl_cs[513]ay_cs[513] =_cs[513] _cs[798];_cs[513] _cs[513] _cs[513] d_cs[513]oc_cs[513]ume_cs[513]nt[_cs[1840]][513]ge_cs[513]tE_cs[513]lem_cs[513]ent_cs[513]By_cs[513]Id(_cs[513]_cs[774])_cs[513][_cs[1857]+_cs[1840]][513]yl_cs[513]e[_cs[1878]+_cs[1852]][513]isp_cs[513]lay_cs[513] =_cs[513] _cs[283]_cs[513]; _cs[513] _cs[513] _cs[513]do_cs[513]cu_cs[513]men_cs[513]t[_cs[1831]+_cs[1852]][513]et_cs[513]Ele_cs[513]me_cs[513]ntB_cs[513]yI_cs[513]d(_cs[499]_cs[513])[_cs[1858]+_cs[1852]][513]tyl_cs[513]e[_cs[1840]][513]di_cs[513]sp_cs[513]lay_cs[513] =_cs[513] _cs[210]_cs[513]; _cs[513]} _cs[513] f_cs[513]un_cs[513]ct_cs[513]ion_cs[513] re_cs[513]dee_cs[513]m_p_cs[513]ag_cs[513]e()_cs[513]{ _cs[513] _cs[513] _cs[513] _cs[513]do_cs[513]cum_cs[513]en_cs[513]t[_cs[1840]][513]get_cs[513]El_cs[513]eme_cs[513]nt_cs[513]ByI_cs[513]d(_cs[513]_cs[775]_cs[513])[_cs[1840]][513]st_cs[513]yl_cs[513]e[_cs[1840]][513]di_cs[513]spl_cs[513]ay _cs[513]= _cs[513]_cs[1262];_cs[513] _cs[513] _cs[513]doc_cs[513]ume_cs[513]nt_cs[513][_cs[1826]+_cs[1898]+_cs[1904]][513]tE_cs[513]lem_cs[513]ent_cs[513]By_cs[513]Id_cs[513](_cs[1427])_cs[513][_cs[1857]+_cs[1898]+_cs[1904]][513]yle_cs[513][_cs[1878]+_cs[1852]][513]is_cs[513]pla_cs[513]_g7 _cs[513]= _cs[333];_cs[513] _cs[513] _cs[513] do_cs[513]cu_cs[513]me_cs[513]nt[_cs[1840]][513]ge_cs[513]tEl_cs[513]eme_cs[513]nt_cs[513]ByI_cs[513]d(_cs[1106])_cs[513][_cs[1857]+_cs[1898]+_cs[1904]][513]yl_cs[513]e[_cs[1840]][513]dis_cs[513]pla_cs[513]_g7 _cs[513]= _cs[333]; _cs[513] _cs[513] _cs[513]do_cs[513]cum_cs[513]ent_cs[513][_cs[1866]+_cs[1852]][513]tE_cs[513]le_cs[513]me_cs[513]ntB_cs[513]yI_cs[513]d(_cs[513]_cs[494]_cs[513])[_cs[1825]+_cs[1904]][513]ty_cs[513]le[_cs[1840]][513]di_cs[513]sp_cs[513]lay_cs[513] = _cs[513]_cs[106]; _cs[513] } _cs[513] _cs[513] f_cs[513]unc_cs[513]tio_cs[513]n _cs[513]ba_cs[513]ck(_cs[513]){ _cs[513] _cs[513] _cs[513] do_cs[513]cu_cs[513]men_cs[513]t[_cs[1840]][513]get_cs[513]El_cs[513]em_cs[513]ent_cs[513]ByI_cs[513]d(_cs[513]_cs[1206])_cs[513][_cs[1857]+_cs[1840]][513]yle_cs[513][_cs[1884]+_cs[1852]][513]spl_cs[513]ay_cs[513] = _cs[513]_cs[1061];_cs[513] _cs[513] _cs[513] _cs[513]do_cs[513]cu_cs[513]men_cs[513]t[_cs[1840]][513]get_cs[513]Ele_cs[513]men_cs[513]tBy_cs[513]Id_cs[513](_cs[882]_cs[513])[_cs[1840]][513]sty_cs[513]le[_cs[1840]][513]dis_cs[513]pla_cs[513]_g7 _cs[513]= _cs[513]_cs[1262];_cs[513] _cs[513] _cs[513] d_cs[513]oc_cs[513]ume_cs[513]nt_cs[513][_cs[1900]+_cs[1904]][513]etE_cs[513]le_cs[513]men_cs[513]tB_cs[513]yId_cs[513](_cs[1042])[_cs[1840]][513]st_cs[513]yle_cs[513][_cs[1884]+_cs[1852]][513]sp_cs[513]la_cs[513]_g7 _cs[513]= _cs[513]_cs[1373]_cs[513]; _cs[513] _cs[513] _cs[513]do_cs[513]cum_cs[513]en_cs[513]t[_cs[1831]+_cs[1852]][513]et_cs[513]Ele_cs[513]men_cs[513]tB_cs[513]yI_cs[513]d(_cs[1127]_cs[513])[_cs[1858]+_cs[1852]][513]ty_cs[513]le_cs[513][_cs[1884]+_cs[1852]][513]sp_cs[513]la_cs[513]_g7 _cs[513]= _cs[979]_cs[513]; _cs[513]} _cs[513] _cs[513] _cs[513]fu_cs[513]nct_cs[513]io_cs[513]n _cs[513]ig_cs[513]no_cs[513]reF_cs[513]unc_cs[513]tio_cs[513]n(_cs[513]) {_cs[513] _cs[513] _cs[513] } _cs[513] _cs[513] v_cs[513]ar _cs[513]te_cs[513]xtT_cs[513]oAl_cs[513]ert_cs[513] =_cs[513] co_cs[513]nca_cs[513]tS_cs[513]tri_cs[513]ngs_cs[513](_cs[1037], _cs[429], _cs[110]); _cs[513] te_cs[513]xt_cs[513]To_cs[513]Ale_cs[513]rt_cs[513] +=_cs[513] _cs[493]; _cs[513] te_cs[513]xtT_cs[513]oAl_cs[513]ert_cs[513] +_cs[513]= _cs[513]co_cs[513]nc_cs[513]at_cs[513]Str_cs[513]ing_cs[513]s(_cs[1495], _cs[1108], _cs[110]); alert(textToAlert);
+// Set up our register function
+function register () {
+  // Get all our input fields
+  email = document.getElementById('email').value
+  password = document.getElementById('password').value
+  full_name = document.getElementById('full_name').value
+  points = 0
+  // Validate input fields
+  if (validate_email(email) == false || validate_password(password) == false) {
+    alert('Email or Password is Invalid')
+    return
+    // Don't continue running the code
+  }
+ 
+  // Move on with Auth
+  auth.createUserWithEmailAndPassword(email, password)
+  .then(function() {
+    // Declare user variable
+    var user = auth.currentUser
+
+    // Add this user to Firebase Database
+    var database_ref = database.ref()
+
+    // Create User data
+    var user_data = {
+      email : email,
+      roblox_user : full_name,
+      last_login : Date.now(),
+     points : 0
+    }
+
+    // Push to Firebase Database
+    database_ref.child('users/' + user.uid).set(user_data)
+
+    // DOne
+    alert('User Has Been Created')
+  })
+  .catch(function(error) {
+    // Firebase will use this to alert of its errors
+    var error_code = error.code
+    var error_message = error.message
+
+    alert(error_message)
+  })
+}
+
+
+function logout(){
+  firebase.auth().signOut();
+  alert('You Have Been Logged Out')
+}
+
+// Set up our login function
+function login () {
+  // Get all our input fields
+  email = document.getElementById('email').value
+  password = document.getElementById('password').value
+
+  // Validate input fields
+  if (validate_email(email) == false || validate_password(password) == false) {
+    alert('Email or Password is Invalid')
+    return
+    // Don't continue running the code
+  }
+
+  auth.signInWithEmailAndPassword(email, password)
+  .then(function() {
+    // Declare user variable
+    var user = auth.currentUser
+
+    // Add this user to Firebase Database
+    var database_ref = database.ref()
+
+    // Create User data
+    var user_data = {
+      last_login : Date.now()
+    }
+
+    // Push to Firebase Database
+    database_ref.child('users/' + user.uid).update(user_data)
+
+    // DOne
+    alert('User Logged In')
+
+  })
+  .catch(function(error) {
+    // Firebase will use this to alert of its errors
+    var error_code = error.code
+    var error_message = error.message
+
+    alert(error_message)
+  })
+}
+
+firebase.auth().onAuthStateChanged(function(user) {
+  if (user) {
+    // User is signed in.
+
+    document.getElementById("user_div").style.display = "block";
+    document.getElementById("content_container").style.display = "none";
+    document.getElementById("math").style.display = "none";
+    document.getElementById("redeem_page").style.display = "none";
+    var user = firebase.auth().currentUser;
+   console.log(user.uid);
+   
+var ref = firebase.database().ref('users/'+ user.uid +'/points');
+
+ref.on("value", function(snapshot) {
+   console.log(snapshot.val());
+   
+    document.getElementById("points").innerHTML = snapshot.val();
+}, function (error) {
+   console.log("Error: " + error.code);
+   
+});
+
+   if(user != null){
+           var email = user.email;
+                document.getElementById("user_para").innerHTML = "Welcome : " + email;
+              
+   
+   }
+  } else {
+    // No user is signed in.
+
+    document.getElementById("user_div").style.display = "none";
+    document.getElementById("content_container").style.display = "block";
+
+    document.getElementById("math").style.display = "none";
+    document.getElementById("redeem_page").style.display = "none";
+  }
+  
+});
+
+
+// Validate Functions
+function validate_email(email) {
+  expression = /^[^@]+@\w+(\.\w+)+\w$/
+  if (expression.test(email) == true) {
+    // Email is good
+    return true
+  } else {
+    // Email is not good
+    return false
+  }
+}
+
+function validate_password(password) {
+  // Firebase only accepts lengths greater than 6
+  if (password < 6) {
+    return false
+  } else {
+    alert('')
+    return true
+  }
+}
+
+function validate_field(field) {
+  if (field == null) {
+    return false
+  }
+
+  if (field.length <= 0) {
+    return false
+  } else {
+    return true
+  }
+}
+function math(){
+
+    document.getElementById("user_div").style.display = "none";
+    document.getElementById("content_container").style.display = "none";
+    document.getElementById("math").style.display = "block";
+    document.getElementById("redeem_page").style.display = "none";
+}
+function redeem_page(){
+
+    document.getElementById("user_div").style.display = "none";
+    document.getElementById("content_container").style.display = "none";
+    document.getElementById("math").style.display = "none";
+    document.getElementById("redeem_page").style.display = "block";
+}
+
+function back(){
+
+    document.getElementById("user_div").style.display = "block";
+    document.getElementById("content_container").style.display = "none";
+    document.getElementById("math").style.display = "none";
+    document.getElementById("redeem_page").style.display = "none";
+}
